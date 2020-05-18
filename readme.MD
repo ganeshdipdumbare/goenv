@@ -1,6 +1,6 @@
 ![Test](https://github.com/ganeshdipdumbare/goviper/workflows/Test/badge.svg) [![codecov](https://codecov.io/gh/ganeshdipdumbare/goviper/branch/master/graph/badge.svg)](https://codecov.io/gh/ganeshdipdumbare/goviper)
 
-# goviper
+# goenv
 Simple tool to sync env variables in Go structure. 
 
 ## Description
